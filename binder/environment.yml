@@ -1,0 +1,12 @@
+name: gpx_viewer
+channels:
+- conda-forge
+dependencies:
+- bqplot
+- ipyleaflet
+- ipywidgets
+- jupyterlab
+- nodejs
+- gpxpy
+- srtm.py
+- voila
