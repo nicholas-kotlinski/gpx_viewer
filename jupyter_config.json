@@ -1,6 +1,6 @@
 {
-  "VoilaConfiguration": {
-    "theme": "dark",
-    "template": "gridstack"
- }
+  "MappingKernelManager": {
+    "cull_interval": 60,
+    "cull_idle_timeout": 60
+  }
 }
