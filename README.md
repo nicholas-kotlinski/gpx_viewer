@@ -1,5 +1,5 @@
 # GPS Viewer
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nicholas-kotlinski/gpx_viewer/main?filepath=voila%2Frender%2Findex.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nicholas-kotlinski/gpx_viewer/main?urlpath=voila%2Frender%2Findex.ipynb)
 
 GPX Viewer is built from https://github.com/jtpio/voila-gpx-viewer
 
