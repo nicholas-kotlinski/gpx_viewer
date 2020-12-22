@@ -4,9 +4,12 @@ channels:
 dependencies:
 - bqplot
 - ipyleaflet
+- ipykernel
 - ipywidgets
 - jupyterlab
 - nodejs
 - gpxpy
 - srtm.py
 - voila
+- widgetsnbextension
+- nbgitpuller
